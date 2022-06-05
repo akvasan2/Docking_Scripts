@@ -1,0 +1,46 @@
+#################################################################
+# If you used AutoDock Vina in your work, please cite:          #
+#                                                               #
+# O. Trott, A. J. Olson,                                        #
+# AutoDock Vina: improving the speed and accuracy of docking    #
+# with a new scoring function, efficient optimization and       #
+# multithreading, Journal of Computational Chemistry 31 (2010)  #
+# 455-461                                                       #
+#                                                               #
+# DOI 10.1002/jcc.21334                                         #
+#                                                               #
+# Please see http://vina.scripps.edu for more information.      #
+#################################################################
+
+WARNING: The search space volume > 27000 Angstrom^3 (See FAQ)
+Reading input ... done.
+Setting up the scoring function ... done.
+Analyzing the binding site ... done.
+Using random seed: 2065260040
+Performing search ... done.
+Refining results ... done.
+
+mode |   affinity | dist from best mode
+     | (kcal/mol) | rmsd l.b.| rmsd u.b.
+-----+------------+----------+----------
+   1         -7.3      0.000      0.000
+   2         -7.3     18.396     22.307
+   3         -7.2      1.190      3.211
+   4         -7.1     17.945     20.678
+   5         -7.0      1.979      7.348
+   6         -6.8     15.977     20.684
+   7         -6.8      0.873      2.282
+   8         -6.6      3.496      5.327
+   9         -6.6     17.821     21.018
+  10         -6.6     17.921     21.209
+  11         -6.6     15.846     21.683
+  12         -6.5      4.058      5.772
+  13         -6.5     16.671     20.460
+  14         -6.5     17.411     20.589
+  15         -6.4      1.699      2.930
+  16         -6.3     13.583     17.042
+  17         -6.3     16.091     18.597
+  18         -6.2     24.256     28.301
+  19         -6.2     21.880     25.020
+  20         -6.1     15.020     17.597
+Writing output ... done.
