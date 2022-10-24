@@ -1,5 +1,6 @@
 # Docking_Scripts
 
+Contributors: Javier Baylon, Andres Arango, Archit Vasan
 ## Required softwares
 
 First, download autodock vina, and adtools. 
